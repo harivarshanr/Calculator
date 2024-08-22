@@ -50,6 +50,15 @@ Follow these steps to get the application up and running on your local machine:
    npm start
 
 The application will be available at http://localhost:3000 in your web browser.
+## Screenshots
+
+**Calculator UI:**
+<img width="1123" alt="calculator" src="https://github.com/user-attachments/assets/7be1aab7-23e6-480b-93ac-e3ab4548c88a">
+<img width="1123" alt="calculator2" src="https://github.com/user-attachments/assets/0dd151cc-0df9-4b6f-abd8-319e50c04573">
+<img width="1123" alt="calculator3" src="https://github.com/user-attachments/assets/62c0bacf-eece-43cb-a78a-06033920dd85">
+
+
+
 
 
 
